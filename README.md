@@ -1,0 +1,1 @@
+# nlw-AudioNote-Transcriber
