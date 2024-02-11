@@ -28,6 +28,8 @@ export function NewNoteCard({ onNoteCreated }: NewNoteCardProps) {
 
     onNoteCreated(content);
 
+    setContent("");
+
     toast.success("Nota criada com sucesso!");
   }
 
