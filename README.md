@@ -1,12 +1,26 @@
-# AudioNote Transcriber 🎙️📝
+# AudioNote Transcriber
 
-AudioNote Transcriber é um aplicativo desenvolvido em ReactJS para tomar notas que permite aos usuários gravar áudio e automaticamente transcrevê-lo para texto. É uma ferramenta útil para capturar pensamentos e ideias rapidamente, tornando mais fácil organizar e revisar informações.
+AudioNote Transcriber é uma aplicação web desenvolvida com ReactJS, TypeScript e estilizada utilizando Tailwind CSS. O objetivo desta aplicação é permitir que os usuários criem e gerenciem suas anotações, podendo adicioná-las tanto por texto quanto por áudio, onde o áudio é transcrito automaticamente.
 
-## Principais Funcionalidades
-- Gravação de áudio integrada ao aplicativo(Chrome, Safari e Edge).
-- Transcrição automática do áudio gravado para texto.
-- Interface intuitiva e fácil de usar para gerenciar e editar notas.
-- Layout responsivo para uma experiência consistente em dispositivos móveis e desktop.
+A aplicação é responsiva, garantindo uma experiência consistente em diferentes dispositivos.
+
+## Demonstração
+
+Veja o projeto em funcionamento [aqui](https://guipaterlini.github.io/nlw-AudioNote-Transcriber/).
+
+## Funcionalidades
+
+- Criação de anotações por texto ou áudio.
+- Transcrição automática de áudio para texto.
+- Consulta, edição e exclusão de anotações.
+- Filtragem de anotações.
+- Design responsivo para diferentes dispositivos.
+
+## Tecnologias Utilizadas
+
+- ReactJS
+- TypeScript
+- Tailwind CSS
 
 ## Figma do projeto
 
